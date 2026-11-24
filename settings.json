@@ -1,0 +1,578 @@
+{
+  "dolphin_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiODUxYmRlYWJhMDlhYTgyMmNlYWM1OTE0NjE1ZDI5ZDA2MjZkMzVlMGNjNjlmZGFkMjkxZTE4MDc3M2MxZmQ4ZGY3YzYzYzMzOGU3YmJhY2QiLCJpYXQiOjE3ODkwNDI5ODcuMDE2NzM1LCJuYmYiOjE3ODkwNDI5ODcuMDE2NzM4LCJleHAiOjE4MjA1Nzg5ODcuMDA4NzU2LCJzdWIiOiI0ODE4ODg3Iiwic2NvcGVzIjpbXSwidGVhbV9pZCI6NDcxOTc3OSwidGVhbV9wbGFuIjoic3RhcnRlciIsInRlYW1fcGxhbl9leHBpcmF0aW9uIjoxNzkwNzY5MTQxfQ.j9meJe_MDGPvpNC3plIn1c5NHYuGugVia6uP656k6USLkoCNAzAMOR2Km7jKiCA0OHIWH-lFTKpZpgc3DeGJL7q_zYc6-l23hxTONBRvlBuSp9FoGNvwMt4WVy8omC65ObKtWsM6ctC07jlVE7J1hmMtgRY6nmLKUrmDsThQgRyALYQWoHPO1Yag3_JidiDRtWKfsWB9BArvQ7Ov7Fxf5SjEx45lUH5zyZO_6Nx-JHckMCm4I7UVJFX0bwGfTSnP6-yjVp1bmPLB1p3JEespmfyHCAvrjigkBFxcjVr1vYGNDkysCNDMFtALJzwgSDty_CHJnGY_TDM7G8sKs8-QM42mAkspGVtCZUi4EskbK94W0LJlzxvytLBrs8q_dOotysJVQL1kwEHA2YgN8E6GB_FtorgZ4KeGyv2MfjlYCffpn-nLJBognM_qkzxXZy23F9o_QX3nfezCo5BcEsvVeLnEjMSV2IlDgVjN7hRtaZZfNLsXXed2qrqc7vqXvRaP7ZeSB__mp8RSqBTbpezKNbF4dYU0yKwhxDxd387GcmwqaFURLiOFYIOL5HquUtHVdOsqkUZtGSaGmJd6-ObOW1yfNqH7h06gVn9Q_U4y_LNdiuPrDUK4dbWoom69r-QYZsOThtarry37hgRA0DeBxsak1UcuXqoSOFgayukV4Yw",
+  "dolphin_port": 3001,
+  "bitrix_webhook": "https://b24-31igde.bitrix24.ru/rest/1/3b21s2gv19rsb0id/",
+  "bitrix_stage_temp": "UC_90NSV4",
+  "bitrix_stage_perm": "UC_46QHI2",
+  "export_excel": true,
+  "excel_filepath": "results.xlsx",
+  "max_workers": 4,
+  "reply_days_back": 30,
+  "autostart_enabled": false,
+  "autostart_interval_min": 30,
+  "work_start": "10:00",
+  "work_end": "21:00",
+  "rucaptcha_enabled": false,
+  "rucaptcha_api_key": "",
+  "rucaptcha_proxy": "",
+  "telegram_bot_token": "8643703106:AAE_8D75qAUUwlVwHD3J6DJ2C3s7ey6GUuI",
+  "telegram_bot_enabled": true,
+  "telegram_admin_ids": [
+    "2048635672"
+  ],
+  "telegram_manager_ids": [],
+  "profiles": [
+    {
+      "pid": "904976633",
+      "name": "61) 79097262899 Qwer123@_zxcv",
+      "password": "Qwer123@_zxcv",
+      "enabled": false,
+      "subprofiles": [
+        {
+          "id": "451481069",
+          "name": "Елена Работа",
+          "enabled": true,
+          "parsed_count": 5
+        },
+        {
+          "id": "451757653",
+          "name": "Работа Вакансии",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "451751652",
+          "name": "Пользователь",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "451496563",
+          "name": "Максим Работа",
+          "enabled": true,
+          "parsed_count": 17
+        },
+        {
+          "id": "451220949",
+          "name": "РАБОТА",
+          "enabled": true,
+          "parsed_count": 9
+        },
+        {
+          "id": "451763514",
+          "name": "Пользователь",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "451486886",
+          "name": "Роман Работа",
+          "enabled": true,
+          "parsed_count": 13
+        },
+        {
+          "id": "451502457",
+          "name": "Андрей Работа",
+          "enabled": true,
+          "parsed_count": 1
+        },
+        {
+          "id": "451755963",
+          "name": "Алина Отклик",
+          "enabled": true,
+          "parsed_count": 3
+        },
+        {
+          "id": "451220835",
+          "name": "Елена",
+          "enabled": true,
+          "parsed_count": 7
+        }
+      ]
+    },
+    {
+      "pid": "904173226",
+      "name": "56) 79617583764 Qwer123@_zxcv",
+      "password": "Qwer123@_zxcv",
+      "enabled": false,
+      "subprofiles": [
+        {
+          "id": "451214626",
+          "name": "НаймСВО",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "451210213",
+          "name": "ПодборСВО",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "451204513",
+          "name": "Служба",
+          "enabled": true,
+          "parsed_count": 5
+        },
+        {
+          "id": "450888167",
+          "name": "СлужбаМинОборона",
+          "enabled": true,
+          "parsed_count": 55
+        },
+        {
+          "id": "451216869",
+          "name": "ПодборСлужбы",
+          "enabled": true,
+          "parsed_count": 6
+        },
+        {
+          "id": "451261413",
+          "name": "ПоискРабочих",
+          "enabled": true,
+          "parsed_count": 19
+        },
+        {
+          "id": "451259403",
+          "name": "Рекрутинг",
+          "enabled": true,
+          "parsed_count": 8
+        },
+        {
+          "id": "451281345",
+          "name": "ВакансииPRO",
+          "enabled": true,
+          "parsed_count": 16
+        },
+        {
+          "id": "451264922",
+          "name": "ProРабота",
+          "enabled": true,
+          "parsed_count": 12
+        },
+        {
+          "id": "451327114",
+          "name": "Помощь с Работой",
+          "enabled": true,
+          "parsed_count": 8
+        }
+      ]
+    },
+    {
+      "pid": "904293969",
+      "name": "57) 79538767068 Qwer123@_zxcv",
+      "password": "Qwer123@_zxcv",
+      "enabled": false,
+      "subprofiles": [
+        {
+          "id": "451219771",
+          "name": "Найм",
+          "enabled": true,
+          "parsed_count": 55
+        },
+        {
+          "id": "451261681",
+          "name": "РаботаPRO",
+          "enabled": true,
+          "parsed_count": 5
+        },
+        {
+          "id": "450931019",
+          "name": "Анатолий",
+          "enabled": true,
+          "parsed_count": 40
+        },
+        {
+          "id": "451265974",
+          "name": "РаботаPROF",
+          "enabled": true,
+          "parsed_count": 4
+        },
+        {
+          "id": "451214571",
+          "name": "Сотрудничество",
+          "enabled": true,
+          "parsed_count": 1
+        },
+        {
+          "id": "451204569",
+          "name": "Служба",
+          "enabled": true,
+          "parsed_count": 4
+        },
+        {
+          "id": "451210350",
+          "name": "ProРаботу",
+          "enabled": true,
+          "parsed_count": 6
+        },
+        {
+          "id": "451282433",
+          "name": "РаботникRU",
+          "enabled": true,
+          "parsed_count": 7
+        },
+        {
+          "id": "451268228",
+          "name": "РаботаWork",
+          "enabled": true,
+          "parsed_count": 6
+        },
+        {
+          "id": "451273384",
+          "name": "ProfРабота",
+          "enabled": true,
+          "parsed_count": 7
+        }
+      ]
+    },
+    {
+      "pid": "889184786",
+      "name": "52) 8 912 587-84-37",
+      "password": "Nbvoln67",
+      "enabled": true,
+      "subprofiles": [
+        {
+          "id": "450937269",
+          "name": "7) Подбор МО",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "450946135",
+          "name": "КОНТРАКТ С МО",
+          "enabled": true,
+          "parsed_count": 9
+        },
+        {
+          "id": "449423902",
+          "name": "3) Подбор МО",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "448373785",
+          "name": "2) Подбор МО",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "450753724",
+          "name": "ВАХТА РФ",
+          "enabled": true,
+          "parsed_count": 10
+        },
+        {
+          "id": "449779481",
+          "name": "1) Подбор МО",
+          "enabled": true,
+          "parsed_count": 3
+        },
+        {
+          "id": "450378199",
+          "name": "6) Подбор МО",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "449427875",
+          "name": "4) Подбор МО",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "450322629",
+          "name": "5) Подбор МО",
+          "enabled": true,
+          "parsed_count": 2
+        },
+        {
+          "id": "450738129",
+          "name": "РАБОТА",
+          "enabled": true,
+          "parsed_count": 58
+        }
+      ]
+    },
+    {
+      "pid": "889892341",
+      "name": "48) 79638778195 Nbvoln67 ПУСТОЙ",
+      "password": "Nbvoln67",
+      "enabled": false,
+      "subprofiles": [
+        {
+          "id": "450049266",
+          "name": "ВВК",
+          "enabled": true,
+          "parsed_count": 25
+        },
+        {
+          "id": "449962487",
+          "name": "КАНДИДАТЫ",
+          "enabled": true,
+          "parsed_count": 28
+        },
+        {
+          "id": "450053239",
+          "name": "РАБОТА ДЛЯ ВСЕХ",
+          "enabled": true,
+          "parsed_count": 26
+        },
+        {
+          "id": "449969383",
+          "name": "ПОМОЖЕМ СТРАНЕ",
+          "enabled": true,
+          "parsed_count": 21
+        },
+        {
+          "id": "450057287",
+          "name": "ПОДБОРРФ",
+          "enabled": true,
+          "parsed_count": 20
+        },
+        {
+          "id": "449363904",
+          "name": "2) Подбор МО",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "450232483",
+          "name": "ПОДБОРСВО",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "450231159",
+          "name": "ПУНКТ ОТБОРА",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "448580476",
+          "name": "1) Подбор МО",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "449495213",
+          "name": "3) Подбор МО",
+          "enabled": true,
+          "parsed_count": 0
+        }
+      ]
+    },
+    {
+      "pid": "889771868",
+      "name": "45) 89125878974 Nbvoln67",
+      "password": "Nbvoln67",
+      "enabled": false,
+      "subprofiles": [
+        {
+          "id": "448807198",
+          "name": "РАБОТА РФ",
+          "enabled": true,
+          "parsed_count": 8
+        },
+        {
+          "id": "449866177",
+          "name": "СВОПОДБОР",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "448793622",
+          "name": "ОТБОР",
+          "enabled": true,
+          "parsed_count": 109
+        },
+        {
+          "id": "448859950",
+          "name": "ПОДБОР ПЕРСОНАЛА",
+          "enabled": true,
+          "parsed_count": 16
+        },
+        {
+          "id": "448878258",
+          "name": "РАБОТА РУ",
+          "enabled": true,
+          "parsed_count": 16
+        },
+        {
+          "id": "448852714",
+          "name": "профподбор",
+          "enabled": true,
+          "parsed_count": 100
+        },
+        {
+          "id": "448869031",
+          "name": "ПОДБОР",
+          "enabled": false
+        },
+        {
+          "id": "448438968",
+          "name": "Дмитрий",
+          "enabled": false
+        },
+        {
+          "id": "448788961",
+          "name": "ПОДБОР",
+          "enabled": false
+        },
+        {
+          "id": "448803245",
+          "name": "Максим",
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "pid": "889184721",
+      "name": "44) 89125880615 Nbvoln67",
+      "password": "Nbvoln67",
+      "enabled": false,
+      "subprofiles": [
+        {
+          "id": "448793505",
+          "name": "5Кандидаты",
+          "enabled": true,
+          "parsed_count": 70
+        },
+        {
+          "id": "448870614",
+          "name": "КандидатыМО",
+          "enabled": true,
+          "parsed_count": 229
+        },
+        {
+          "id": "448791185",
+          "name": "ВахтыРФ4",
+          "enabled": true,
+          "parsed_count": 45
+        },
+        {
+          "id": "448811303",
+          "name": "КонтрактыРФ",
+          "enabled": true,
+          "parsed_count": 100
+        },
+        {
+          "id": "448376335",
+          "name": "Михаил",
+          "enabled": true,
+          "parsed_count": 6
+        },
+        {
+          "id": "448867501",
+          "name": "СлужбаРФ",
+          "enabled": true,
+          "parsed_count": 260
+        },
+        {
+          "id": "448797647",
+          "name": "МОРФ",
+          "enabled": true,
+          "parsed_count": 186
+        },
+        {
+          "id": "448784883",
+          "name": "Работа по контракту",
+          "enabled": true,
+          "parsed_count": 16
+        },
+        {
+          "id": "448807912",
+          "name": "ВахтыМО",
+          "enabled": true,
+          "parsed_count": 82
+        },
+        {
+          "id": "448781557",
+          "name": "Подбор кандидатов",
+          "enabled": true,
+          "parsed_count": 100
+        }
+      ]
+    },
+    {
+      "pid": "889774977",
+      "name": "46) 89125870253 Nbvoln67",
+      "password": "Nbvoln67",
+      "enabled": false,
+      "subprofiles": [
+        {
+          "id": "448439509",
+          "name": "Михаил",
+          "enabled": true,
+          "parsed_count": 55
+        },
+        {
+          "id": "449272658",
+          "name": "ВАХТЫ",
+          "enabled": true,
+          "parsed_count": 8
+        },
+        {
+          "id": "449276957",
+          "name": "КАНДИДАТЫ НА СЛУЖБУ",
+          "enabled": true,
+          "parsed_count": 4
+        },
+        {
+          "id": "449078097",
+          "name": "Контракт",
+          "enabled": true,
+          "parsed_count": 160
+        },
+        {
+          "id": "449089846",
+          "name": "РАБОТАрф",
+          "enabled": true,
+          "parsed_count": 0
+        },
+        {
+          "id": "449342026",
+          "name": "НАБОРФ",
+          "enabled": true,
+          "parsed_count": 180
+        },
+        {
+          "id": "449087165",
+          "name": "РАБОТАру",
+          "enabled": true,
+          "parsed_count": 100
+        },
+        {
+          "id": "449068738",
+          "name": "СВОПОДБОР",
+          "enabled": true,
+          "parsed_count": 240
+        },
+        {
+          "id": "449321115",
+          "name": "ГРАЖДАНСКИЙ НАБОР",
+          "enabled": true,
+          "parsed_count": 5
+        },
+        {
+          "id": "449267439",
+          "name": "КОНТРАКТ",
+          "enabled": true,
+          "parsed_count": 11
+        }
+      ]
+    }
+  ],
+  "page_load_timeout_sec": 80,
+  "login_wait_timeout_sec": 30,
+  "cards_ready_timeout_sec": 15,
+  "switch_modal_timeout_sec": 15,
+  "goto_settle_delay_ms": 3000,
+  "switch_settle_delay_ms": 2500,
+  "scroll_step_pause_ms": 700,
+  "card_iter_pause_min_ms": 200,
+  "card_iter_pause_max_ms": 600,
+  "page_settle_min_ms": 5000,
+  "page_settle_max_ms": 10000,
+  "speed_preset": "standard"
+}
